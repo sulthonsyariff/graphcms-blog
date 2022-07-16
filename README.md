@@ -27,4 +27,4 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 ## See Demo Project
-https://vercel.com/sulthonsyariff/graphcms-blog
+[https://vercel.com/sulthonsyariff/graphcms-blog](https://graphcms-blog-sulthonsyariff.vercel.app/)
